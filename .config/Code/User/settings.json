@@ -1,0 +1,8 @@
+{
+  "latex-workshop.latex.autoBuild.run": "never",
+  "latex-workshop.latex.recipes": [
+    { "name": "pdflatex", "tools": ["pdflatex"] }
+  ],
+  "telemetry.telemetryLevel": "off",
+  "window.titleBarStyle": "custom"
+}
