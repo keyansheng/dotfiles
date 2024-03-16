@@ -7,5 +7,6 @@ user_pref("browser.uidensity", 1);
 user_pref("extensions.pocket.enabled", false);
 
 user_pref("browser.bookmarks.editDialog.showForNewBookmarks", false);
+user_pref("browser.download.open_pdf_attachments_inline", true);
 user_pref("browser.fullscreen.exit_on_escape", false);
 user_pref("findbar.highlightAll", true);
