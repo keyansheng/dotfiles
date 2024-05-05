@@ -2,3 +2,5 @@
 	autocrlf = input
 [diff]
 	tool = vimdiff
+[merge]
+	tool = vimdiff
